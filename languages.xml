@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>	
+
+<!-- HEAD -->
+
+	<head>
+		<title>
+			<en>Localization Engineer</en>
+			<fr>Ingénieure pour la localisation</fr>
+		</title>
+		<description>
+			<en>Madeleine Barois is a multilingual and multidisciplinary localization engineer and web creator.</en>
+			<fr>Madeleine Barois is est une ingénieure pour la localisation et créatrice web multilingue.</fr>
+		</description>
+	</head>
+
+		<langName>
+			<en>EN</en>
+			<fr>FR</fr>
+		</langName>
+		<lang>
+			<en>en</en>
+			<fr>fr</fr>
+		</lang>	
+	<!--</nav>-->
+	
+	<menu>
+		<about>
+			<en>About</en>
+			<fr>À propos</fr>
+		</about>
+		<skills>
+			<en>Resume</en>
+			<fr>CV</fr>
+		</skills>
+		<portfolio>
+			<en>Portfolio</en>
+			<fr>Portfolio</fr>
+		</portfolio>
+		<blog>
+			<en>Blog</en>
+			<fr>Blog</fr>
+		</blog>
+		<contact>
+			<en>Contact</en>
+			<fr>Contact</fr>
+		</contact>
+	</menu>
+
+<!-- SECTIONS -->
+
+<!-- HOME -->
+
+	<home>
+		<subtitle>
+			<en>Multilingual Localization Engineer and Web Specialist</en>
+			<fr>Ingénieure pour la localisation et spécialiste web multilingue</fr>
+		</subtitle>
+		<button>
+			<en>Contact Me</en>
+			<fr>Contactez-moi</fr>
+		</button>
+	</home>
+	
+	<services>
+		<title>
+			<en>My Specialties</en>
+			<fr>Mes domaines de compétence</fr>
+		</title>
+		<cta1>
+			<title>
+				<en>Professional localization engineer</en>
+				<fr>Ingénieure pour la localisation</fr>
+			</title>
+			<text>
+				<en>Localization engineer and technical support provider for translation processes</en>
+				<fr>Ingénieure pour la localisation et les processus de traduction</fr>
+			</text>
+		</cta1>
+		<cta2>
+			<title>
+				<en>Trained web designer and developper</en>
+				<fr>Formée en developpement et en design web</fr>
+			</title>
+			<text>
+				<en>Master's in multilingual web design and development</en>
+				<fr>Master en développement et design de sites web multilingues</fr>
+			</text>
+		</cta2>
+		<cta3>
+			<title>
+				<en>Language specialist</en>
+				<fr>Spécialiste en langues</fr>
+			</title>
+			<text>
+				<en>BA in Linguistics and fluent in English, French and Spanish</en>
+				<fr>Bac+4 en linguistique, parle couramment anglais, français et espagnol</fr>
+			</text>
+		</cta3>
+		<cta4>
+			<title>
+				<en>Hobby artist</en>
+				<fr>Artiste amateure</fr>
+			</title>
+			<text>
+				<en>Avid doodler, painter, and general craft-maker in my spare time</en>
+				<fr>Dessinatrice, peintre et bricoleuse dans mon temps libre</fr>
+			</text>
+		</cta4>
+	</services>
+
+	<about>
+		<title>
+			<en>About Me</en>
+			<fr>À propos</fr>
+		</title>
+		<text>
+			<en><![CDATA[<p>Hello I'm Madeleine, welcome to my website :) Originally from Canada, I live in Bruxelles and work as a localization engineer for an international language service provider. My background is in linguistics, and in the past couple of years I have followed different job opportunities, academic programs, and personal experiences throughout Europe. Through these I have acquired a varied skill-set in several, transversally-related domains, including languages, localization, web, and programming.</p>]]></en>
+			<!--</p>Having grown up in a multilingual household, I've always been passionate about languages and they've a guiding theme throughout my various professional and academic paths. However, what I treasure most is the pluridisiplinay nature of the knowledge and abilites that I have been fortunate enough to gain.</p> -->
+			<fr><![CDATA[<p>Bonjour ! Je m'appelle Madeleine et je travaille en tant qu'ingénieure pour la localisation dans une entreprise de services linguistiques à Bruxelles. Originaire du Canada, je m'épanouis professionnellement en Europe à travers une série d'expériences aussi diverses qu'enrichissantes. Ayant développé un réseau de compétences variées dans de nombreux domaines, je suis toujours à la recherche de projets pluridisciplinaires et multiformes.</p>]]></fr>
+		</text>
+		<!-- <cvButton> -->
+			<!-- <en>Download my resume</en> -->
+			<!-- <fr>Téléchargez mon CV</fr> -->
+		<!-- </cvButton> -->
+	</about>
+
+<!-- SKILLS -->
+
+	<skills>
+		<title>
+			<en>Skills</en>
+			<fr>Compétences</fr>
+		</title>
+		<localizationSkills>
+			<en><![CDATA[<b>Localization</b> Tools and Frameworks]]></en>
+			<fr><![CDATA[Outils et frameworks pour la <b>Localisation</b>]]></fr>
+		</localizationSkills>
+		<studio>
+			<en>CAT Tool</en>
+			<fr>Outil de TAO</fr>
+		</studio>
+		<memsource>
+			<en>CAT Tool</en>
+			<fr>Outil de TAO</fr>
+		</memsource>
+		<memoq>
+			<en>CAT Tool</en>
+			<fr>Outil de TAO</fr>
+		</memoq>
+		<globalese>
+			<en>MT System</en>
+			<fr>Système de TA</fr>
+		</globalese>
+		
+		<okapi>
+			<en>Localization Framework</en>
+			<fr>Framework de localisation</fr>
+		</okapi>
+		
+		<sdk>
+			<en>SDL Studio SDK, OpenOffice XML SDK</en>
+			<fr>SDK de SDL Studio, SDK OpenOffice XML</fr>			
+		</sdk>
+		
+		<programmingSkills>
+			<en><![CDATA[<b>Programming</b> Languages and Tools]]></en>
+			<fr><![CDATA[Languages et outils de <b>développement</b>]]></fr>
+		</programmingSkills>
+		
+		<visualStudio>
+			<en>Development Environment</en>
+			<fr>Outil de développement</fr>
+		</visualStudio>
+		<dotNet>
+			<en>.NET Framework: C#, Regex</en>
+			<fr>Framework .NET: C#, Regex</fr>
+		</dotNet>
+
+		<webSkills>
+			<en><![CDATA[<b>Web</b> and <b>DTP</b> Tools]]></en>
+			<fr><![CDATA[Outils <b>web</b> et <PAO>]]></fr>	
+		</webSkills>
+		<adobe>
+			<en><![CDATA[Adobe&copy; Suite]]></en>
+			<fr><![CDATA[Suite Adobe&copy;]]></fr>	
+		</adobe>
+		<languages>
+			<title>
+				<en><![CDATA[<b>Languages]]></en>
+				<fr><![CDATA[<b>Langues]]></fr>
+			</title>
+		</languages>
+		<!-- <cvButton> -->
+			<!-- <en>Download my resume</en> -->
+			<!-- <fr>Téléchargez mon CV</fr> -->
+		<!-- </cvButton> -->
+
+	</skills>
+
+<!-- EXPERIENCE -->
+
+	<experience>
+		<title>
+			<en>Work Experience</en>
+			<fr>Expérience</fr>
+		</title>
+		<acolad>
+			<title>
+				<en>Localization Engineer</en>
+				<fr>Ingénieure pour la localisation</fr>
+			</title>
+		</acolad>
+		<telelingua>
+			<title>
+				<en>Localization Engineer (Apprenticeship)</en>
+				<fr>Ingénieure pour la localization (apprentissage)</fr>
+			</title>
+		</telelingua>
+		<smartkyc>
+			<title>
+				<en><![CDATA[Semantic Rule Writer]]></en>
+				<fr><![CDATA[Rédactrice de règles sémantiques]]></fr>
+			</title>
+			<location>
+				<en>Remote freelance</en>
+				<fr>Télétravail indépendant</fr>
+			</location>
+		</smartkyc>
+		<tcloc>
+			<title>
+				<en>Assistant Web Project Manager (Internship)</en>
+				<fr>Assistante chef de projet web (stage)</fr>
+			</title>
+			<company>
+				<en>TCLoc Master's - Internship</en>
+				<fr>Master TCLoc - Stage</fr>
+			</company>
+		</tcloc>
+		<chacunsoncourt>
+			<title>
+				<en>Web Project Manager (Internship)</en>
+				<fr>Chef de projet web (stage)</fr>
+			</title>
+			<company>
+				<en>Chacun Son Court - Internship</en>
+				<fr>Chacun Son Court - Stage</fr>
+			</company>
+		</chacunsoncourt>
+		<berlitz>
+			<title>
+				<en><![CDATA[English & French Teacher]]></en>
+				<fr><![CDATA[Enseignante d'anglais et de français]]></fr>
+			</title>
+			<company>
+				<en>Berlitz Language Centers</en>
+				<fr>Centres de Langues Berlitz</fr>
+			</company>
+			<location>
+				<en>Cologne, Germany | Strasbourg, France</en>
+				<fr>Cologne, Allemagne | Strasbourg, France</fr>
+			</location>
+		</berlitz>
+		<ubc>
+			<title>
+				<en>Assistant Linguistic Researcher</en>
+				<fr>Assistante de recherche linguistique</fr>
+			</title>
+			<company>
+				<en>UBC Linguistics Department</en>
+				<fr>Département de linguistique de l'UBC</fr>
+			</company>
+		</ubc>
+		<moa>
+			<title>
+				<en>Museum guide</en>
+				<fr>Guide du Musée</fr>
+			</title>
+			<company>
+				<en>UBC Museum of Anthropology</en>
+				<fr>Musée d'anthropologie de UBC</fr>
+			</company>
+		</moa>
+	</experience>
+
+	<education>
+		<title>
+			<en>Education</en>
+			<fr>Formations</fr>
+		</title>
+		<caweb>
+			<title>
+				<en>CAWEB Master's</en>
+				<fr>Master CAWEB</fr>
+			</title>
+			<description>
+				<en>Master's in Multilingual Website Creation and Management</en>
+				<fr>Master en création et gestion des sites web multilingues</fr>
+			</description>
+			<institution>
+				<en>University of Strasbourg</en>
+				<fr>Université de Strasbourg</fr>
+			</institution>
+		</caweb>
+		<pluri>
+			<title>
+				<en><![CDATA[Master 1 - Plurilingualism & Interculturality]]></en>
+				<fr><![CDATA[M1 - Plurilinguisme et interculturalité]]></fr>
+			</title>
+			<description>
+				<en>1st year of master's in Sociolinguistics and Intercultural Studies</en>
+				<fr>Master 1 en sociolinguistique et études interculturelles</fr>
+			</description>
+			<institution>
+				<en>University of Strasbourg</en>
+				<fr>Université de Strasbourg</fr>
+			</institution>
+			<place>
+				<en>University of Strasbourg</en>
+				<fr>Université de Strasbourg</fr>
+			</place>
+		</pluri>
+		<ubc>
+			<title>
+				<en>Bacherlor's in Linguistics</en>
+				<fr>Bac+4 en linguistique</fr>
+			</title>
+			<description>
+				<en>Bachelor of Arts in Linguistics</en>
+				<fr>Bachelor en linguistique</fr>
+			</description>
+			<institution>
+				<en>University of British Columbia</en>
+				<fr>Université de Colombie-Britannique</fr>
+			</institution>
+		</ubc>
+		<goglobal>
+			<title>
+				<en>Go Global Exchange Program</en>
+				<fr>Échange Go Global</fr>
+			</title>
+			<description>
+				<en>Year-long Study Abroad in Spain</en>
+				<fr>Année d'études à l'étranger en Espagne</fr>
+			</description>
+			<institution>
+				<en>University of Granada</en>
+				<fr>Université de Grenade</fr>
+			</institution>
+			<place>
+				<en>Granada, Spain</en>
+				<fr>Grenade, Espagne</fr>
+			</place>
+		</goglobal>
+	</education>
+
+<!-- PORTFOLIO -->
+
+	<portfolio>
+		<title>
+			<en>Portfolio</en>
+			<fr>Portfolio</fr>
+		</title>
+		<description>
+			<en>Here are some things that I've created recently.</en>
+			<fr>Voici quelques oeuvres que j'ai crées dernièrement.</fr>
+		</description>
+		<sections>
+			<all>
+				<en>All</en>
+				<fr>Tout</fr>
+			</all>
+			<writing>
+				<en>Writing</en>
+				<fr>Rédaction</fr>
+			</writing>
+			<web>
+				<en>Various</en>
+				<fr>Divers</fr>
+			</web>
+			<art>
+				<en>Drawing</en>
+				<fr>Dessins</fr>
+			</art>
+		</sections>
+		<web>
+			<item id="1">
+				<title>
+					<en>Ocean Conservation Flash Animation</en>
+					<fr>Animation Flash : Conservation des océans</fr>
+				</title>
+				<description>
+					<en>CAWEB Project</en>
+					<fr>Projet CAWEB</fr>
+				</description>
+			</item>
+			<item id="2">
+				<title>
+					<en>Chacun Son Court Website</en>
+					<fr>Site Web Chacun Son Court</fr>
+				</title>
+				<description>
+					<en>CAWEB Project with Fiona Perret, Florian Mihajlov, Laura Vogt-Abeln &amp; Maxime Huyghe</en>
+					<fr>Projet CAWEB avec Fiona Perret, Florian Mihajlov, Laura Vogt-Abeln &amp; Maxime Huyghe</fr>
+				</description>
+			</item>
+			<item id="3">
+				<title>
+					<en>OCO Responsive Website</en>
+					<fr>Site web responsive OCO</fr>
+				</title>
+				<description>
+					<en>CAWEB Project with Charlotte Busson</en>
+					<fr>Projet CAWEB avec Charlotte Busson</fr>
+				</description>
+			</item>
+			<item id="4">
+				<title>
+					<en>PHP Flashcards web application</en>
+					<fr>Application PHP Flashcards</fr>
+				</title>
+				<description>
+					<en>CAWEB Project with Clara Tindland &amp; Maxime Smolis</en>
+					<fr>Projet CAWEB avec Clara Tindland &amp; Maxime Smolis</fr>
+				</description>
+			</item>
+			<item id="5">
+				<title>
+					<en>TCLoc Master's program brochure</en>
+					<fr>Dépliant pour le Master TCLoc</fr>
+				</title>
+				<description>
+					<en>Internship Project</en>
+					<fr>Projet de stage</fr>
+				</description>
+			</item>
+			<item id="6">
+				<title>
+					<en>TCLoc Master's Website Co-Management</en>
+					<fr>Co-gestion du site web du Master TCLoc</fr>
+				</title>
+				<description>
+					<en>Internship &amp; CAWEB Project</en>
+					<fr>Stage &amp; Projet CAWEB</fr>
+				</description>
+			</item>
+			<item id="7">
+				<title>
+					<en>"Je Filme Ma Formation" Smartphone Video</en>
+					<fr>"Je Filme Ma Formation" Vidéo avec smartphone</fr>
+				</title>
+				<description>
+					<en>CAWEB Project</en>
+					<fr>Projet CAWEB</fr>
+				</description>
+			</item>
+			<item id="8">
+				<title>
+					<en>TCLoc Social Media Post</en>
+					<fr>Publicaiton pour les réseaux sociaux TCLoc</fr>
+				</title>
+				<description>
+					<en>CAWEB Project</en>
+					<fr>Projet CAWEB</fr>
+				</description>
+			</item>
+			<item id="9">
+				<title>
+					<en>TCLoc Social Media Post</en>
+					<fr>Publicaiton pour les réseaux sociaux TCLoc</fr>
+				</title>
+				<description>
+					<en>CAWEB Project</en>
+					<fr>Projet CAWEB</fr>
+				</description>
+			</item>
+			<item id="10">
+				<title>
+					<en>SMT Process Infographic</en>
+					<fr>Infographique processus SMT</fr>
+				</title>
+				<description>
+					<en>Blog article illustration</en>
+					<fr>Blog article illustration</fr>
+				</description>
+			</item>
+		</web>
+		
+		<writing>
+			<item id="1">
+				<title>
+					<en>ST Communications : un LSP fier d’être africain</en>
+					<fr>ST Communications : un LSP fier d’être africain</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | May 3, 2018</en>
+					<fr>Blog TCLoc | 3 mai, 2018</fr>
+				</description>
+			</item>
+			<item id="2">
+				<title>
+					<en>What are Translation Environment Tools (TEnTs)?</en>
+					<fr>What are Translation Environment Tools (TEnTs)?</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | Jan 22, 2018</en>
+					<fr>Blog TCLoc | 22 jan, 2018</fr>
+				</description>
+			</item>
+			<item id="3">
+				<title>
+					<en>Free Adobe® Technical Communication Suite Licences</en>
+					<fr>Free Adobe® Technical Communication Suite Licences</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | Dec 11, 2017</en>
+					<fr>Blog TCLoc | 11 dec, 2017</fr>
+				</description>
+			</item>
+			<item id="4">
+				<title>
+					<en>Gaëtan Chrétiennot: Interview with a CAT Tool Expert</en>
+					<fr>Gaëtan Chrétiennot: Interview with a CAT Tool Expert</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | Oct 2, 2017</en>
+					<fr>Blog TCLoc | 2 oct, 2017</fr>
+				</description>
+			</item>
+			<item id="5">
+				<title>
+					<en>Chris Raulf – Profile of an SEO Expert</en>
+					<fr>Chris Raulf – Profile of an SEO Expert</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | Aug 21, 2017</en>
+					<fr>Blog TCLoc | 21 août, 2017</fr>
+				</description>
+			</item>
+			<item id="6">
+				<title>
+					<en>TCLoc On-Site!</en>
+					<fr>TCLoc On-Site!</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | Mar 13, 2017</en>
+					<fr>Blog TCLoc | 13 mars, 2017</fr>
+				</description>
+			</item>
+			<item id="7">
+				<title>
+					<en>TCLoc at GALA Conference 2017</en>
+					<fr>TCLoc at GALA Conference 2017</fr>
+				</title>
+				<description>
+					<en>TCLoc Blog | Apr 3, 2017</en>
+					<fr>Blog TCLoc | 3 avr, 2017</fr>
+				</description>
+			</item>
+		</writing>
+		
+
+	</portfolio>
+<!-- BLOG -->
+	<blog>
+		<june>
+			<en>Jun</en>
+			<fr>juin</fr>
+		</june>
+		<june>
+			<en>Apr</en>
+			<fr>avr</fr>
+		</june>
+	</blog>
+<!-- CONTACT -->
+
+		<contact>
+			<title>
+				<en>Contact Me</en>
+				<fr>Contactez-moi</fr>
+			</title>
+			<invitation>
+				<en>Interested in getting in touch? I'd love to hear from you!</en>
+				<fr>N'hésitez-pas à me contacter si vous avez des questions ou aimeriez discuter !</fr>
+			</invitation>
+			<name>
+				<placeholder>
+					<en>Name</en>
+					<fr>Nom</fr>
+				</placeholder>
+			</name>
+			<email>
+				<placeholder>
+					<en>E-mail</en>
+					<fr>Mail</fr>
+				</placeholder>
+			</email>
+			<message>
+				<placeholder>
+					<en>Message</en>
+					<fr>Message</fr>
+				</placeholder>
+			</message>
+
+			<button>
+				<en>Send</en>
+				<fr>Evoyer</fr>
+			</button>
+
+			<linkedin>
+				<en>Or find me on LinkedIn:</en>
+				<fr>Ou rejoignez-moi sur LinkedIn :</fr>
+			</linkedin>
+			<linkedinUrl>
+				<en>https://www.linkedin.com/in/madeleine-barois/?locale=en_US</en>
+				<fr>https://www.linkedin.com/in/madeleine-barois/?locale=fr_FR</fr>
+			</linkedinUrl>
+		</contact>
+
+<!--FOOTER-->
+		<footerHome>
+			<name>
+				<en>Home</en>
+				<fr>Accueil</fr>
+			</name>
+			<url>
+				<en>home</en>
+				<fr>accueil</fr>
+			</url>
+		</footerHome>
+		<footerAbout>
+			<name>
+				<en>About</en>
+				<fr>À propos</fr>
+			</name>
+			<url>
+				<en>about</en>
+				<fr>apropos</fr>
+			</url>
+		</footerAbout>
+		<footerContact>
+			<name>
+				<en>Contact</en>
+				<fr>Contact</fr>
+			</name>
+			<url>
+				<en>contact</en>
+				<fr>contact</fr>
+			</url>
+		</footerContact>
+		<footerLinkedIn>
+			<url>
+				<en>https://www.linkedin.com/in/madeleine-barois/?locale=en_US</en>
+				<fr>https://www.linkedin.com/in/madeleine-barois/?locale=fr_FR</fr>
+			</url>
+		</footerLinkedIn>
+		
+</root>
